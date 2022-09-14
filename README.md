@@ -7,7 +7,8 @@ https://user-images.githubusercontent.com/91718893/190149133-d0cafd28-f207-4594-
 
 # Features
 
-      - You can get the Report either of your (.csv) file or your (.xlsx) file , If your upload any of the file which is not csv and xlsx then it will be rejected.
+      - You can get the Report either of your (.csv) file or your (.xlsx) file ,
+      If your upload any of the file which is not csv and xlsx then it will be rejected.
 
       - You can get the minimal report as well , by selecting the selectbox of (minimal Report).
 
