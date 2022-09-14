@@ -25,3 +25,9 @@ https://user-images.githubusercontent.com/91718893/190149133-d0cafd28-f207-4594-
      
      - Numpy , streamlit pandas profiling.
      
+ ## Validations.
+ 
+       1. You cannot upload file size which is exceeding 10 MB.
+       
+       2. Only csv and xlsx files are accepted.
+     
